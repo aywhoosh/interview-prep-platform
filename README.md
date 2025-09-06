@@ -1,5 +1,7 @@
 # Interview Preparation Platform - Starter
 
+👉 Live Demo: [https://aywhoosh.github.io/interview-prep-platform/](https://aywhoosh.github.io/interview-prep-platform/)
+
 A minimal full stack starter:
 - Backend: FastAPI (Python) with SQLAlchemy and Postgres
 - Frontend: React + Vite
