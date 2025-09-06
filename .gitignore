@@ -1,0 +1,22 @@
+# Python
+backend/.venv/
+backend/dev.db
+backend/.env
+__pycache__/
+*.pyc
+
+# Alembic local artifacts
+*.sqlite
+*.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+backend/.venv/
+backend/dev.db
+backend/.env
+
+
+# OS junk
+.DS_Store
+Thumbs.db

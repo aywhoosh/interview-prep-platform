@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Base light and dark surfaces */
+:root { color-scheme: light; }
+.dark { color-scheme: dark; }
+
+/* Smooth text rendering */
+html { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+/* Custom selection */
+::selection { background-color: rgba(59,130,246,.25); }
+
+/* Nice code blocks */
+code, pre { font-feature-settings: "calt" 0; }
